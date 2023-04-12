@@ -50,19 +50,28 @@ Write what you think some root causes of their slow progress might be.
 Dashbaords: 
 
 TASK 1
+
+
 ![Task 1 pic](https://user-images.githubusercontent.com/112333555/231365221-4fa7c3d0-3f9b-475b-add6-cfab15b79931.jpg)
 
 TASK 2
+
+
 ![Task 2 churned profile pic](https://user-images.githubusercontent.com/112333555/231365277-6f55768f-1a7c-4ab9-a069-6601c02ba3da.jpg)
 
 
 TASK 2 SECOND SHEET
+
+
 ![task2 risk analysis](https://user-images.githubusercontent.com/112333555/231365391-961be503-e11d-4d54-83e7-89dcff4e7937.jpg)
 
 TASK 3
+
+
 ![task 3 first file](https://user-images.githubusercontent.com/112333555/231365433-a5ac09d5-5a61-442d-addc-032e86621a24.jpg)
 
 TASK 3 SECOND SHEET 
+
 
 ![task 3 second page](https://user-images.githubusercontent.com/112333555/231365472-26ff2d76-0f05-4b11-8661-401c98bd3173.jpg)
 
