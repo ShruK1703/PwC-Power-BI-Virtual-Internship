@@ -8,7 +8,7 @@ If our people could use these tools to solve common problems, they’d help us b
 
 This is why you're here! Our Digital Accelerator programme is an internal chance that takes groups of our employees out of their day jobs and puts them through trainings that teaches them skills in technology such as automation, machine learning, design thinking, and digital storytelling. PowerBI is an important part of it as visualising data helps to handle and understand clients.
 
-##Task 1 : Call Centre Trends
+#Task 1 : Call Centre Trends
 
 Create a dashboard in Power BI for Claire that reflects all relevant Key Performance Indicators (KPIs) and metrics in the dataset. Get creative! Possible KPIs include (to get you started, but not limited to):
 
@@ -18,7 +18,7 @@ Calls by time
 Average speed of answer
 Agent’s performance quadrant -> average handle time (talk duration) vs calls answered
 
-##Task 2 : Customer Retention
+#Task 2 : Customer Retention
 
 Your colleague, the engagement partner, asks you to do the following tasks:
 
@@ -26,7 +26,7 @@ Define proper KPIs
 Create a dashboard for the retention manager reflecting the KPIs
 Write a short email to him (the engagement partner) explaining your findings, and include suggestions as to what needs to be changed.
 
-##Task 3 : Diversity & Inclusion
+#Task 3 : Diversity & Inclusion
 
 Calculating the following measures could help to define proper KPIs:
 
